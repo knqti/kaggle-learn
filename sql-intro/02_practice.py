@@ -1,4 +1,4 @@
-from credentials import login, bigquery
+from functions import login
 
 client = login()
 
