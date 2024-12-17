@@ -165,3 +165,4 @@ scratch*
 .vscode
 credentials/
 *.parquet
+parquet_files/
